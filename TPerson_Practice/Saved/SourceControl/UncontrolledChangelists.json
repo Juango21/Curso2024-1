@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/s216e15/Documents/Unreal Projects/TPerson_Practice/Content/ThirdPerson/Blueprints/BP_BaseCharacter.uasset",
+				"C:/Users/s216e15/Documents/Unreal Projects/TPerson_Practice/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/s216e15/Documents/Unreal Projects/TPerson_Practice/Content/ThirdPerson/Blueprints/BP_PlayerCharacter.uasset",
+				"C:/Users/s216e15/Documents/Unreal Projects/TPerson_Practice/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/s216e15/Documents/Unreal Projects/TPerson_Practice/Content/ThirdPerson/Blueprints/GM_Curso2024.uasset"
+			]
+		}
+	]
+}
